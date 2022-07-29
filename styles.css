@@ -1,4 +1,11 @@
-body{
-    background-color: turquoise;
-    color: aqua;
+canvas {
+    width: 800px;
+    height: 800;
+    border: 5px solid black;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
